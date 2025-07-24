@@ -74,4 +74,4 @@ The culmination of the internship was an in-depth study of the BLE protocol and 
 I would like to extend my sincere gratitude to my internship supervisor, **Dr. Hossein Hosseininejad**, the technical lead **Dr. Danial Katoozian**, and the entire engineering team at **Zistel** for their invaluable mentorship and support throughout this learning experience.
 
 ## ✍️ Author
-* **Ali Naghiloo** (40010093)
+* **Ali Naghiloo**
